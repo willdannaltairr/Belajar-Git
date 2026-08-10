@@ -1,3 +1,8 @@
 h1{
     color: red;
 }
+
+body{
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
